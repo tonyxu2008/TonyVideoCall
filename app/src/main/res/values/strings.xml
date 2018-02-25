@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resources>
-    <string name="app_name">Open Video Call</string>
+    <string name="app_name">Xu VChatTest</string>
 
     <string name="label_settings">Settings</string>
 
@@ -11,17 +11,17 @@
 
     <string name="label_encryption_key_hint">Encryption key</string>
 
-    <string name="label_join">Join</string>
+    <string name="label_join">加入聊天</string>
 
     <string name="label_confirm">Confirm</string>
 
     <string name="label_send">Send</string>
 
-    <string name="msg_say_something">Say something…</string>
+    <string name="msg_say_something">输入你想说的内容…</string>
 
     <string name="msg_no_network_connection">No network connection, please check the network settings</string>
 
-    <string name="label_title_resolution">Resolution\n(Width * Height)</string>
+    <string name="label_title_resolution">分辨率\n(Width * Height)</string>
     <string name="label_title_frame_rate">Frame Rate\n(fps)</string>
     <string name="label_title_bit_rate">Bit Rate\n(kbps)</string>
 

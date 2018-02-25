@@ -107,7 +107,9 @@ public class MainActivity extends BaseActivity {
     public void forwardToRoom() {
         EditText v_channel = (EditText) findViewById(R.id.channel_name);
         String channel = v_channel.getText().toString();
-        vSettings().mChannelName = channel;
+        // vSettings().mChannelName = channel;
+        // change channel name
+        vSettings().mChannelName = "tony";
 
         EditText v_encryption_key = (EditText) findViewById(R.id.encryption_key);
         String encryption = v_encryption_key.getText().toString();
